@@ -1,0 +1,797 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "/keVfqCMKmJ55nHzmqR2Q5K7LwJt.jpg",
+        "genre_ids": ["Action",
+        "Thriller",
+        "War"
+        ],
+        "id": 784651,
+        "original_language": "hi",
+        "original_title": "फाइटर",
+        "overview": "As India faces a militant attack in Kashmir, the country’s best combat aviators join forces under a reckless yet brilliant squadron leader to form 'Air Dragons', faces mortal dangers and their inner demons.",
+        "popularity": 129.26,
+        "poster_path": "/zDZowwb9GZGEctAu2PCpjiPQAMM.jpg",
+        "release_date": "2024-01-24",
+        "title": "Fighter",
+        "video": false,
+        "vote_average": 5.665,
+        "vote_count": 94
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/ba9TgAO4I8RyA2LljzR3MspHaM9.jpg",
+        "genre_ids": [
+        28,
+        878,
+        53
+        ],
+        "id": 799155,
+        "original_language": "hi",
+        "original_title": "Attack",
+        "overview": "With the Parliament under siege, India’s first super soldier Arjun Shergill is tasked to get hold of the terrorists in the nick of time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi. Will Arjun succeed in his mission?",
+        "popularity": 73.619,
+        "poster_path": "/5jGKbYuZtdxSNOocI6ZziQeiY4n.jpg",
+        "release_date": "2022-04-01",
+        "title": "Attack",
+        "video": false,
+        "vote_average": 6.682,
+        "vote_count": 192
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/S3EIcOUQYxgd3QzjOo2rZJ2MN8.jpg",
+        "genre_ids": [
+        28,
+        18,
+        10752
+        ],
+        "id": 554600,
+        "original_language": "hi",
+        "original_title": "Uri: The Surgical Strike",
+        "overview": "Following the roguish terrorist attacks at Uri Army Base camp in Kashmir, India takes the fight to the enemy, in its most successful covert operation till date with one and only one objective of avenging their fallen heroes.",
+        "popularity": 64.759,
+        "poster_path": "/yNySAgpAnWmPpYinim9E0tUzJWG.jpg",
+        "release_date": "2019-01-11",
+        "title": "Uri: The Surgical Strike",
+        "video": false,
+        "vote_average": 7.077,
+        "vote_count": 407
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/seAIZLEq2Il2psjMUREDbSdRmbu.jpg",
+        "genre_ids": [
+        28,
+        12,
+        14,
+        878
+        ],
+        "id": 801688,
+        "original_language": "te",
+        "original_title": "కల్కి 2898 - ఎ.డి",
+        "overview": "Bhairava, tired of the oppressive confines of his homeland and the perilous life of a bounty hunter, yearns for a more comfortable existence in the Complex. His quest for a new life inadvertently entangles him with a group of rebels dedicated to freeing humanity from the grip of malevolent forces.",
+        "popularity": 98.701,
+        "poster_path": "/zNE88KjSX2nDSWjdsNqeIFGAXo8.jpg",
+        "release_date": "2024-06-26",
+        "title": "Kalki 2898 - AD",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/fTLZ3H7leVUeBxaqEKDWtn6pIis.jpg",
+        "genre_ids": [
+        28,
+        12,
+        53,
+        18
+        ],
+        "id": 864692,
+        "original_language": "hi",
+        "original_title": "पठान",
+        "overview": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+        "popularity": 46.451,
+        "poster_path": "/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
+        "release_date": "2023-01-25",
+        "title": "Pathaan",
+        "video": false,
+        "vote_average": 6.578,
+        "vote_count": 172
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/i0Y0wP8H6SRgjr6QmuwbtQbS24D.jpg",
+        "genre_ids": [
+        28,
+        18
+        ],
+        "id": 579974,
+        "original_language": "te",
+        "original_title": "రౌద్రం రణం రుధిరం",
+        "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+        "popularity": 56.812,
+        "poster_path": "/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg",
+        "release_date": "2022-03-24",
+        "title": "RRR",
+        "video": false,
+        "vote_average": 7.762,
+        "vote_count": 1214
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/3pdpp8nKp22HyuXijI3NesPJ29g.jpg",
+        "genre_ids": [
+        18,
+        28
+        ],
+        "id": 1112555,
+        "original_language": "bn",
+        "original_title": "অথৈ",
+        "overview": "A contemporary retelling of William Shakespeare's timeless tragedy Othello, exploring the intricacies of human emotions and the consequences of unchecked manipulation, all within a Bengali context.",
+        "popularity": 46.479,
+        "poster_path": "/bSGbboUqf38Jazh2MavSDzsqKKb.jpg",
+        "release_date": "2024-06-14",
+        "title": "Athhoi",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/rt9jRDrN938wwSkEemwvmXKFMja.jpg",
+        "genre_ids": [
+        28,
+        12,
+        53
+        ],
+        "id": 872906,
+        "original_language": "hi",
+        "original_title": "जवान",
+        "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+        "popularity": 47.862,
+        "poster_path": "/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+        "release_date": "2023-09-07",
+        "title": "Jawan",
+        "video": false,
+        "vote_average": 7.207,
+        "vote_count": 222
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/2QL5j6mB4ZpyBcVr0WO9H9MQGBu.jpg",
+        "genre_ids": [
+        28,
+        12,
+        14
+        ],
+        "id": 734253,
+        "original_language": "hi",
+        "original_title": "आदिपुरुष",
+        "overview": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
+        "popularity": 51.896,
+        "poster_path": "/kpuOeWclbtLU414Txv8ZT6HoZ0k.jpg",
+        "release_date": "2023-06-16",
+        "title": "Adipurush",
+        "video": false,
+        "vote_average": 5.234,
+        "vote_count": 77
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/pwBtk8ngoMtqn0qv8j1feSFTKUn.jpg",
+        "genre_ids": [
+        28,
+        80,
+        18
+        ],
+        "id": 781732,
+        "original_language": "hi",
+        "original_title": "Animal",
+        "overview": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+        "popularity": 38.796,
+        "poster_path": "/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+        "release_date": "2023-12-01",
+        "title": "Animal",
+        "video": false,
+        "vote_average": 6.495,
+        "vote_count": 92
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/uBz7ji0Zw3vX99WH31rHFG5X0Az.jpg",
+        "genre_ids": [
+        28,
+        18
+        ],
+        "id": 845861,
+        "original_language": "hi",
+        "original_title": "State of Siege: Temple Attack",
+        "overview": "Based on the true incident of the 2002 terrorist attack in Gujarat's Akshardham temple, the story revolves around the bravery of NSG commandos, who stood up for their country and their people in the worst of times.",
+        "popularity": 41.201,
+        "poster_path": "/ckghAN8FuYY2icUyJjVkKXiBrek.jpg",
+        "release_date": "2021-07-09",
+        "title": "State of Siege: Temple Attack",
+        "video": false,
+        "vote_average": 6.194,
+        "vote_count": 31
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/sDiGcjWhSu42dCw0jQmBInAkDZ9.jpg",
+        "genre_ids": [
+        28,
+        53
+        ],
+        "id": 379149,
+        "original_language": "en",
+        "original_title": "The Foreigner",
+        "overview": "Quan is a humble London businessman whose long-buried past erupts in a revenge-fueled vendetta when the only person left for him to love – his teenage daughter – dies in an Irish Republican Army car bombing. His relentless search to find the terrorists leads to a cat-and-mouse conflict with a British government official whose own past may hold the clues to the identities of the elusive killers.",
+        "popularity": 34.201,
+        "poster_path": "/rwM4hzrmc5HiWfQD9ls9DL4QgGl.jpg",
+        "release_date": "2017-09-28",
+        "title": "The Foreigner",
+        "video": false,
+        "vote_average": 6.965,
+        "vote_count": 2551
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/o6G8llbhWHnhKzNPSSvIbic5NWe.jpg",
+        "genre_ids": [
+        28,
+        53
+        ],
+        "id": 1118224,
+        "original_language": "ta",
+        "original_title": "மகாராஜா",
+        "overview": "In a quiet neighborhood, Maharaja, a respected middle-aged barber, lives with his daughter Jothi and Lakshmi. When Maharaja reports to the police that masked intruders attacked him and robbed Lakshmi, the authorities reject this claim, doubting the authenticity of her loss. Despite his repeated attempts to seek help, he was willing to go all the way, even investigating it himself before his daughter returned. As suspicions grow and the Maharaja's sanity is questioned, the mystery deepens.",
+        "popularity": 34.838,
+        "poster_path": "/yE9VEPLAKj2P9bLilv0nq1gqIW6.jpg",
+        "release_date": "2024-06-14",
+        "title": "Maharaja",
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 5
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/yCRYYGldFGVa4cmZVpTVCRQMfjA.jpg",
+        "genre_ids": [
+        28,
+        12,
+        14
+        ],
+        "id": 350312,
+        "original_language": "te",
+        "original_title": "బాహుబలి 2: ది కన్ క్లూజన్",
+        "overview": "When Mahendra, the son of Bāhubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+        "popularity": 26.097,
+        "poster_path": "/21sC2assImQIYCEDA84Qh9d1RsK.jpg",
+        "release_date": "2017-04-27",
+        "title": "Bāhubali 2: The Conclusion",
+        "video": false,
+        "vote_average": 7.425,
+        "vote_count": 714
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/2f9YnS7JKrIqBv7dMQG8sRS2aJv.jpg",
+        "genre_ids": [
+        28,
+        18,
+        53
+        ],
+        "id": 690957,
+        "original_language": "te",
+        "original_title": "పుష్పా - The Rise",
+        "overview": "Pushpa Raj is a coolie who rises in the world of red sandalwood smuggling. Along the way, he doesn’t shy from making an enemy or two.",
+        "popularity": 34.021,
+        "poster_path": "/kKDnGklCDRK8hrFGH4pLr7ZDA33.jpg",
+        "release_date": "2021-12-16",
+        "title": "Pushpa: The Rise",
+        "video": false,
+        "vote_average": 7.095,
+        "vote_count": 110
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/jyGiG4wcr0BHpqIXiep5MRCQ7Kz.jpg",
+        "genre_ids": [
+        28,
+        12,
+        18,
+        36,
+        10749,
+        10752
+        ],
+        "id": 4435,
+        "original_language": "hi",
+        "original_title": "अशोक",
+        "overview": "A young Prince Asoka works to perfect his skills in battle and also deals with family conflict. During a struggle with one of his step-brothers, his mother urges Asoka to escape to stay alive. While away, Asoka meets Kaurwaki and falls in love, but must use his skills as a warrior to protect her. A dangerous and heartbreaking web of conspiracy follows, which leads Asoka to embrace a Buddhist path.",
+        "popularity": 49.015,
+        "poster_path": "/3S9u9oMFEwvzt1OGSv9PBowzmiD.jpg",
+        "release_date": "2001-09-13",
+        "title": "Aśoka",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 144
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/e9ZEuHGHZ06AToHlfN1L7nejJ7W.jpg",
+        "genre_ids": [
+        28,
+        12,
+        14
+        ],
+        "id": 256040,
+        "original_language": "te",
+        "original_title": "బాహుబలి:ద బిగినింగ్",
+        "overview": "The young Shivudu is left as a foundling in a small village by his mother. By the time he’s grown up, it has become apparent that he possesses exceptional gifts. He meets the beautiful warrior princess Avanthika and learns that her queen has been held captive for the last 25 years. Shividu sets off to rescue her, discovering his own origins in the process.",
+        "popularity": 30.145,
+        "poster_path": "/9BAjt8nSSms62uOVYn1t3C3dVto.jpg",
+        "release_date": "2015-07-10",
+        "title": "Bāhubali: The Beginning",
+        "video": false,
+        "vote_average": 7.564,
+        "vote_count": 773
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/nsV5Mfi9FAV4w8eDsdr7uqVswOk.jpg",
+        "genre_ids": [
+        28,
+        12,
+        80,
+        53
+        ],
+        "id": 587412,
+        "original_language": "kn",
+        "original_title": "ಕೆ.ಜಿ.ಎಫ್: Chapter 2",
+        "overview": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+        "popularity": 28.758,
+        "poster_path": "/aN30pwRBhRo1NS6ILAz3ejxXb0g.jpg",
+        "release_date": "2022-04-14",
+        "title": "K.G.F: Chapter 2",
+        "video": false,
+        "vote_average": 7.456,
+        "vote_count": 136
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/w5bafQ2YCDizQHM2wLBoPlpseNy.jpg",
+        "genre_ids": [
+        28,
+        9648,
+        18,
+        53
+        ],
+        "id": 1139698,
+        "original_language": "kn",
+        "original_title": "ಟೋಬಿ",
+        "overview": "An estranged man deemed to be a beast vows to break free from the evil world and transform himself for his foster daughter.",
+        "popularity": 24.305,
+        "poster_path": "/rEpICSg7LRqAwwhkfd7VX1w5kjm.jpg",
+        "release_date": "2023-08-25",
+        "title": "Toby",
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 2
+        },
+        {
+        "adult": false,
+        "backdrop_path": "/5Tw0isY4Fs08burneYsa6JvHbER.jpg",
+        "genre_ids": [
+        28,
+        53,
+        12
+        ],
+        "id": 585268,
+        "original_language": "hi",
+        "original_title": "War",
+        "overview": "Khalid, entrusted with the task of eliminating former soldier turned rogue Kabir, engages in an epic battle with his mentor who taught him everything.",
+        "popularity": 18.727,
+        "poster_path": "/7JeHrXR1FU57Y6b90YDpFJMhmVO.jpg",
+        "release_date": "2019-10-02",
+        "title": "War",
+        "video": false,
+        "vote_average": 6.483,
+        "vote_count": 271
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3SmbEb7T2Ypg5vBwLflLeVXkkQ1.jpg",
+            "genre_ids": [
+            28,
+            80
+            ],
+            "id": 44977,
+            "original_language": "hi",
+            "original_title": "धूम ३",
+            "overview": "To avenge his father's death, a circus entertainer trained in magic and acrobatics turns thief to take down a corrupt bank in Chicago. Two cops from Mumbai are assigned to the case.",
+            "popularity": 37.656,
+            "poster_path": "/9kP1PystrNvfJMnhFGCcNdbNi4B.jpg",
+            "release_date": "2013-12-19",
+            "title": "Dhoom 3",
+            "video": false,
+            "vote_average": 6.024,
+            "vote_count": 270
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/gYRdSs0nC9ovtqUa99k3Oa5hD8v.jpg",
+            "genre_ids": [
+            28,
+            53
+            ],
+            "id": 1034587,
+            "original_language": "te",
+            "original_title": "అమిగోస్",
+            "overview": "Siddharth, a youngman who runs a family business is astonished to find his doppelgängers Manjunath and Michael on getdopple.com. After meeting up in Goa, they come down to Hyderabad to help Siddarth win over Ishika, a girl looking for superman to be her husband. But things take a drastic turn when NIA swings into action to nab Michael, aka Bipin Roy.",
+            "popularity": 20.365,
+            "poster_path": "/vVBOUGpDRQTq2m8uRTmiqJaYphS.jpg",
+            "release_date": "2023-02-10",
+            "title": "Amigos",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 10
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/6WxEPaZGFWmQegUmseoGtlTKtQq.jpg",
+            "genre_ids": [
+            35,
+            28
+            ],
+            "id": 1084812,
+            "original_language": "ml",
+            "original_title": "ആവേശം",
+            "overview": "Three college freshmen befriend a gangster to get revenge on their seniors. After months of drinking and partying, their choices come back to bite them.",
+            "popularity": 29.032,
+            "poster_path": "/k5RWPaNjgRcNvGoawYaQHQwyctI.jpg",
+            "release_date": "2024-04-11",
+            "title": "Aavesham",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 25
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/7w06baRS9VPm5RYz8lawTCLiR4j.jpg",
+            "genre_ids": [
+            28,
+            80,
+            53
+            ],
+            "id": 592508,
+            "original_language": "hi",
+            "original_title": "Sooryavanshi",
+            "overview": "A fearless, faithful albeit slightly forgetful Mumbai cop, Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India pulls out all the stops and stunts to thwart a major conspiracy to attack his city.",
+            "popularity": 21.008,
+            "poster_path": "/oCymRm6FG62zrKnXiHHJvDgkYoA.jpg",
+            "release_date": "2021-11-05",
+            "title": "Sooryavanshi",
+            "video": false,
+            "vote_average": 5.778,
+            "vote_count": 151
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/urMwPRFh9q36t7uN1adXOmZaYmh.jpg",
+            "genre_ids": [
+            28,
+            35,
+            10402
+            ],
+            "id": 46373,
+            "original_language": "hi",
+            "original_title": "Bade Miyan Chote Miyan",
+            "overview": "Police Inspectors Arjun Singh and Pyare Mohan work in the same Police Station in Mumbai. Although they work together, they have an unhealthy rivalry between them - leading to considerable acrimony and inefficiency. Then things get worse when a series of crimes and robberies take place - with witnesses coming forward and identifying them as the culprits...",
+            "popularity": 20.857,
+            "poster_path": "/1iiBcRXR8OFDyfXitR5W72z7rrU.jpg",
+            "release_date": "1998-10-06",
+            "title": "Bade Miyan Chote Miyan",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 31
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/yfc7xWwLlEacjoOH4TRgb3tAaAe.jpg",
+            "genre_ids": [
+            28,
+            80,
+            53
+            ],
+            "id": 770906,
+            "original_language": "te",
+            "original_title": "సలార్: పార్ట్‌ 1 – సీజ్‌ఫైర్‌",
+            "overview": "Set in the fictional dystopian city-state of Khansaar, the film follows the friendship between Deva, a tribesman, and Varadha, the prince of Khansaar. When a coup d'état is planned by his father's ministers and his relatives, Varadha enlists Deva's help to become Khansaar's undisputed ruler.",
+            "popularity": 28.977,
+            "poster_path": "/wbonIVQaGmtUkZnlPIqpUBCIFdy.jpg",
+            "release_date": "2023-12-21",
+            "title": "Salaar: Part 1 - Ceasefire",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 59
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/mqYRoUMY2O4LodbDasRbZAJ4z82.jpg",
+            "genre_ids": [
+            28,
+            53
+            ],
+            "id": 93519,
+            "original_language": "hi",
+            "original_title": "कारन अर्जुन",
+            "overview": "Karan and Arjun reincarnate in the different parts of the country. But the faith of their previous mother brings them together in order to avenge their death.",
+            "popularity": 34.787,
+            "poster_path": "/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg",
+            "release_date": "1995-01-13",
+            "title": "Karan Arjun",
+            "video": false,
+            "vote_average": 6.74,
+            "vote_count": 100
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/5qjbu7po6eqLNd4kUPAyIpFRwQK.jpg",
+            "genre_ids": [
+            18,
+            10751,
+            35,
+            28
+            ],
+            "id": 360814,
+            "original_language": "hi",
+            "original_title": "दंगल",
+            "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+            "popularity": 28.816,
+            "poster_path": "/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+            "release_date": "2016-12-21",
+            "title": "Dangal",
+            "video": false,
+            "vote_average": 7.91,
+            "vote_count": 932
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/21bk7sqIsFfeof4vppwGEw1Ahvw.jpg",
+            "genre_ids": [
+            28,
+            53
+            ],
+            "id": 466550,
+            "original_language": "hi",
+            "original_title": "Drive",
+            "overview": "A notorious thief allies with a street racer for a grand heist involving an elaborate game of deceit with authorities, who have their own dirty secrets.",
+            "popularity": 18.635,
+            "poster_path": "/wmCI3RoAq75rEH2zFjP2qqchrs9.jpg",
+            "release_date": "2019-11-01",
+            "title": "Drive",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 55
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/kqSxCsGIT4rqrZTTMpYP8RIzojv.jpg",
+            "genre_ids": [
+            28,
+            12,
+            53
+            ],
+            "id": 720557,
+            "original_language": "hi",
+            "original_title": "Tiger 3",
+            "overview": "Following the events of Tiger Zinda Hai, War, and Pathaan, Avinash Singh Rathore returns as Tiger but this time the battle is within. He has to choose between his country or family as an old enemy is after his life, who claims that his family was killed by Tiger. He holds Tiger captive in Pakistan as the Indian agent's loyalty towards his country faces its biggest test.",
+            "popularity": 16.094,
+            "poster_path": "/7wgED7Yx9VLcNWSO91VgwicHmMD.jpg",
+            "release_date": "2023-11-12",
+            "title": "Tiger 3",
+            "video": false,
+            "vote_average": 5.808,
+            "vote_count": 39
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/b795kAB6Vbw0P92tyQwQyr4YzGf.jpg",
+            "genre_ids": [
+            28,
+            878,
+            53
+            ],
+            "id": 936622,
+            "original_language": "hi",
+            "original_title": "बड़े मियाँ छोटे मियाँ",
+            "overview": "Two elite soldiers with troubled pasts are enlisted for a daring mission when a deadly masked madman threatens India's defenses.",
+            "popularity": 28.155,
+            "poster_path": "/ote8HmQOgmoAfqFaqVKsEdgD2q4.jpg",
+            "release_date": "2024-04-11",
+            "title": "Bade Miyan Chote Miyan",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 12
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/2n6KECWCNmekIEgZFNlldkELUsP.jpg",
+            "genre_ids": [
+            28,
+            18
+            ],
+            "id": 997391,
+            "original_language": "ml",
+            "original_title": "ആര്‍ഡിഎക്സ്: റോബര്‍ട്ട് ഡോണി സേവ്യര്‍",
+            "overview": "Once-menacing, anger fueled, trained martial arts fighters Robert, Dony and Xavier settle down to peaceful lives, after a significant event prompts them. Fate orchestrates their reunion and return from exile to their fighting ways, when their history linger ominously and one of them faces a violent attack.",
+            "popularity": 18.457,
+            "poster_path": "/E4prGNIMN8USgwZBkVj3ADasAG.jpg",
+            "release_date": "2023-08-25",
+            "title": "RDX: Robert Dony Xavier",
+            "video": false,
+            "vote_average": 7.064,
+            "vote_count": 39
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/3HnYgndpXpZS0PInke1UYNOCe1r.jpg",
+            "genre_ids": [
+            18,
+            28,
+            80
+            ],
+            "id": 70590,
+            "original_language": "hi",
+            "original_title": "Singham",
+            "overview": "An honest, small town cop is transferred to a big city that is controlled by a crime boss that he had once humiliated.",
+            "popularity": 12.823,
+            "poster_path": "/pggLRaurdWwjqX2vkhKIVQSBjXV.jpg",
+            "release_date": "2011-07-22",
+            "title": "Singham",
+            "video": false,
+            "vote_average": 6.507,
+            "vote_count": 142
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/mUAvhPWY4r7O32txXa7VvzKMrhJ.jpg",
+            "genre_ids": [
+            28
+            ],
+            "id": 12259,
+            "original_language": "hi",
+            "original_title": "शोले",
+            "overview": "After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.",
+            "popularity": 16.861,
+            "poster_path": "/3NdhVyXOVkVAYCHImd6WOOFLyCx.jpg",
+            "release_date": "1975-08-15",
+            "title": "Sholay",
+            "video": false,
+            "vote_average": 6.998,
+            "vote_count": 259
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/AguDwIJdqUFEUXlmXyixotE0WnT.jpg",
+            "genre_ids": [
+            28,
+            18,
+            53,
+            10752
+            ],
+            "id": 599925,
+            "original_language": "hi",
+            "original_title": "शेरशाह",
+            "overview": "Inspired by the life of Captain Vikram Batra (PVC), the film celebrates his bravery, valiant spirit and honors his invaluable sacrifice during the Kargil War of 1999, at the age of 24.",
+            "popularity": 14.582,
+            "poster_path": "/zGvFnwoXJKrYnKhoVPytqkqCJ8V.jpg",
+            "release_date": "2021-08-12",
+            "title": "Shershaah",
+            "video": false,
+            "vote_average": 7.287,
+            "vote_count": 82
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/n9QCm8uagvmXH476u5qFQsW8HkU.jpg",
+            "genre_ids": [
+            35,
+            18,
+            28
+            ],
+            "id": 348892,
+            "original_language": "hi",
+            "original_title": "बजरंगी भाईजान",
+            "overview": "A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.",
+            "popularity": 17.51,
+            "poster_path": "/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg",
+            "release_date": "2015-07-17",
+            "title": "Bajrangi Bhaijaan",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 461
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/aa7JHVcpKMxnZalcyHoRVXP12ia.jpg",
+            "genre_ids": [
+            28,
+            12
+            ],
+            "id": 660046,
+            "original_language": "ta",
+            "original_title": "பொன்னியின் செல்வன்: பாகம் 1",
+            "overview": "The Chola kingdom is under threat from forces both internal and external, and with crown prince Aaditha Karikalan, his younger brother Arunmozhi Varman and the emperor, Sundara Cholar separated by situations, it is up to a messenger to ensure the safety of the kingdom. Can he succeed in his mission, especially with Karikalan's former girlfriend, Nandhini, plotting to bring down the entire Chola empire?",
+            "popularity": 21.352,
+            "poster_path": "/1LT6jkgfyemPAwcFUhPULUG7loe.jpg",
+            "release_date": "2022-09-30",
+            "title": "Ponniyin Selvan: Part I",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 69
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/iReAdpZgtNYYAcgAQEwMUYJuGAV.jpg",
+            "genre_ids": [
+            28,
+            9648,
+            18
+            ],
+            "id": 320295,
+            "original_language": "hi",
+            "original_title": "डिटेक्टिव ब्योमकेश बक्शी!",
+            "overview": "Byomkesh, fresh out of college, agrees to investigate the disappearance of Bhuvan, a chemist. Assisted by Bhuvan's son Ajit, Byomkesh links the case to a larger conspiracy that will unsettle Calcutta.",
+            "popularity": 27.636,
+            "poster_path": "/7IvuZioWIvj8UAIWJhGtLsqwwt.jpg",
+            "release_date": "2015-04-02",
+            "title": "Detective Byomkesh Bakshy!",
+            "video": false,
+            "vote_average": 6.736,
+            "vote_count": 91
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/1oEBCKVKC49By9RBTbsae8RO9Nh.jpg",
+            "genre_ids": [
+            28,
+            35,
+            80,
+            18
+            ],
+            "id": 496524,
+            "original_language": "hi",
+            "original_title": "सिंम्बा",
+            "overview": "A corrupt police officer enjoys all the perks of being an immoral and unethical police officer until an event which transforms his life completely and forces him to choose the righteous path.",
+            "popularity": 11.816,
+            "poster_path": "/ulQO4XJ1xlWdl4vX8Lr3SbWRfZw.jpg",
+            "release_date": "2018-12-28",
+            "title": "Simmba",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 74
+            },
+            {
+            "adult": false,
+            "backdrop_path": "/i1K9Bmq8oO0mkUJRNW7mXIWkzcn.jpg",
+            "genre_ids": [
+            14,
+            28,
+            12
+            ],
+            "id": 496331,
+            "original_language": "hi",
+            "original_title": "ब्रह्मास्त्र पहला भाग: शिवा",
+            "overview": "The story of Shiva – a young man on the brink of an epic love, with a girl named Isha. But their world is turned upside down when Shiva learns that he has a mysterious connection to the Brahmāstra... and a great power within him that he doesn’t understand just yet - the power of Fire.",
+            "popularity": 15.462,
+            "poster_path": "/x61qdvHIsr9U53FwoLVDQqAGur0.jpg",
+            "release_date": "2022-09-08",
+            "title": "Brahmāstra Part One: Shiva",
+            "video": false,
+            "vote_average": 6.519,
+            "vote_count": 157
+            }
+]
